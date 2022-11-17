@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NodeJs,Capacitor**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HarshRajbhar?tab=repositories](https://github.com/HarshRajbhar/repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/HarshRajbhar/repositories](https://github.com/HarshRajbhar?tab=repositories)
 
 - 💬 Ask me about **HTML,CSS,Typescript-Javascript,Angular,Angular-Material,Ionic Components,Firebase**
 
